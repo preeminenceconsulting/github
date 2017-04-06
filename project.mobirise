@@ -574,7 +574,7 @@
           "form": {
             "action": "noncedo2005@yahoo.com",
             "alerts": {
-              "success": "Thank you for filling out this form we will contact you soon!"
+              "success": "Thank you for filling out this form!"
             },
             "fields": {
               "name": {
