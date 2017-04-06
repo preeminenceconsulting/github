@@ -17,7 +17,7 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       }
     },
@@ -334,7 +334,7 @@
               "color": "#fac51c"
             },
             ".btn": {
-              "font-size": "14px"
+              "font-size": "16px"
             },
             ".mbr-section-text I": {
               "font-size": "20px"
@@ -344,10 +344,10 @@
           "_params": {
             "imageSize": "54",
             "parallax": false,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/relax-1673916-2000x1500.jpg",
             "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -419,7 +419,7 @@
           },
           "title": "How we work?<br><span style=\"font-weight: normal;\">step by step guide</span>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"preeminenceconsulting.html#form1-7\" data-toolbar=\"-mbrBtnMove\">Register Now</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"preeminenceconsulting#features2-4\" data-toolbar=\"-mbrBtnMove\">WORK-FLOW</a>"
         },
         {
           "_inherit": "features1",
@@ -430,6 +430,9 @@
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#2e2e2e"
+            },
+            ".btn": {
+              "font-size": "14px"
             }
           },
           "_anchor": "features2-4",
@@ -499,7 +502,7 @@
           "title3": "WE SEND YOU THE DOCUMENTS",
           "subtitle3": "",
           "caption3": "Upon successful registration we will e-mail you the registration documents, share certificates and the share register",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Register Now</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"preeminenceconsulting#form1-7\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Register Now</a>",
           "media4": {
             "iconFont": {
               "active": true,
@@ -512,7 +515,7 @@
           },
           "title4": "UNLIMITED OPPORTUNITIES",
           "subtitle4": "",
-          "caption4": "Congratultions now you are an entrepreneur go and make those millions!!!",
+          "caption4": "Congratulations now you are an entrepreneur go and make those millions!!!",
           "button4": "<a data-app-btn=\"true\" href=\"preeminenceconsulting.html#form1-7\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Register Now</a>",
           "media5": {
             "iconFont": {
@@ -551,6 +554,9 @@
           "_styles": {
             ".form-control-label": {
               "color": "#000000"
+            },
+            ".btn": {
+              "font-size": "14px"
             }
           },
           "_anchor": "form1-7",

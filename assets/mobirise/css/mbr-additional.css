@@ -415,9 +415,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #fac51c;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 #menu-b .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -564,7 +561,7 @@ h6,
   color: #fac51c;
 }
 #header2-0 .btn {
-  font-size: 14px;
+  font-size: 16px;
 }
 #header2-0 .mbr-section-text I {
   font-size: 20px;
@@ -578,6 +575,12 @@ h6,
 #features2-4 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
+#features2-4 .btn {
+  font-size: 14px;
+}
 #form1-7 .form-control-label {
   color: #000000;
+}
+#form1-7 .btn {
+  font-size: 14px;
 }
