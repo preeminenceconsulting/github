@@ -380,8 +380,8 @@
             }
           },
           "title": "Register your company for only R850 with a full package!<br>",
-          "text": "<b><i>Our price includes:</i></b><br><b>Company Registration and &nbsp;Documents<br>Shareholder Certificates<br>Company Register<br>BEE &nbsp;Affidavit<br>SARS Income Tax Registration<br>Done in 7 working days</b>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"preeminenceconsulting.html#form1-7\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Complete the form below</a> "
+          "text": "<b><i>Our price includes:</i></b><br><b><i><br></i></b><br><b>Company Registration and &nbsp;Documents<br>Shareholder Certificates<br>Company Register<br>BEE &nbsp;Affidavit<br>SARS Income Tax Registration<br>Done in 7 working days</b>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"preeminenceconsulting.html#form1-7\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register now</a> "
         },
         {
           "_inherit": "header1",
@@ -468,7 +468,7 @@
           },
           "title1": "ENQUIRY, PAYMENT &amp; PAPERWORK",
           "subtitle1": "",
-          "caption1": "After you have enquired for registration we will send you the registration process. You can then send this paperwork to us along with proof of payment",
+          "caption1": "After you have enquired for registration we will send you the documentation to start the registration process. You can then send this paperwork to us along with proof of payment",
           "button1": "<a data-app-btn=\"true\" href=\"preeminenceconsulting.html#form1-7\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Register Now</a>",
           "media2": {
             "iconFont": {
@@ -574,7 +574,7 @@
           "form": {
             "action": "noncedo2005@yahoo.com",
             "alerts": {
-              "success": "Thank you for filling out this form!"
+              "success": "Thank you for filling out this form we will contact you soon!"
             },
             "fields": {
               "name": {
