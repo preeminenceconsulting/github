@@ -338,7 +338,7 @@
           "_anchor": "header2-0",
           "_params": {
             "imageSize": "45",
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/relax-1673916-2000x1500.jpg",
             "bgColor": "#000000",
