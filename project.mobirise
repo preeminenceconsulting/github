@@ -232,10 +232,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "1.55rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.679rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -277,7 +277,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "1.55",
+            "fontSize": "0.75",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -342,7 +342,7 @@
           },
           "_anchor": "header2-0",
           "_params": {
-            "imageSize": "40",
+            "imageSize": "21",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/relax-1673916-2000x1500.jpg",
