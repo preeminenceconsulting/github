@@ -342,7 +342,7 @@
           },
           "_anchor": "header2-0",
           "_params": {
-            "imageSize": "54",
+            "imageSize": "40",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/relax-1673916-2000x1500.jpg",
