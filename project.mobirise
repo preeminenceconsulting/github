@@ -98,7 +98,7 @@
           "_anchor": "menu-b",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "0.6",
+            "fontSize": "2.9",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -232,10 +232,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "2.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "3.141rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -277,7 +277,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "0.75",
+            "fontSize": "2.9",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
@@ -331,7 +331,8 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fac51c"
+              "color": "#fac51c",
+              "text-align": "left"
             },
             ".btn": {
               "font-size": "16px"
@@ -342,7 +343,7 @@
           },
           "_anchor": "header2-0",
           "_params": {
-            "imageSize": "21",
+            "imageSize": "45",
             "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/relax-1673916-2000x1500.jpg",
@@ -355,7 +356,7 @@
             "overlay": true,
             "overlayOpacity": 0.3,
             "overlayColor": "#000",
-            "inverse": true,
+            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": true,
@@ -379,7 +380,7 @@
               "size": 250
             }
           },
-          "title": "Register your company for only R850 with a full package!<br>",
+          "title": "Register your company for only R850 with a full package",
           "text": "<b><i>Our price includes:</i></b><br><br><b>Company Registration and &nbsp;Documents<br>Shareholder Certificates<br>Company Register<br>BEE &nbsp;Affidavit<br>SARS Income Tax Registration<br>Done in 7 working days</b>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"preeminenceconsulting.html#form1-7\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register now</a> "
         },
@@ -605,54 +606,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>SUBMIT</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-e",
-          "_params": {
-            "imageSize": 50,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "INTRO WITH IMAGE",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     }
