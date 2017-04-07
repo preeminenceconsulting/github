@@ -345,10 +345,10 @@
           "_params": {
             "imageSize": "45",
             "parallax": false,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/relax-1673916-2000x1500.jpg",
             "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
