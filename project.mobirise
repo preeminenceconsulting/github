@@ -1,12 +1,12 @@
 {
   "settings": {
-    "currentPage": "preeminenceconsulting",
-    "name": "Google drive",
+    "name": "Pleasures",
+    "currentPage": "Genuine Pleasures Leather Bags",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#fac51c",
+        "primaryColor": "#c0a375",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -15,135 +15,350 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": true,
+        "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true,
+        "isScrollToTopButton": false,
         "isRtl": false
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 19,
-    "versionPublish": "3.12.1",
-    "favicon": "",
-    "noImageResize": "",
-    "path": "@PROJECT_PATH@"
+    "uniqCompNum": 15,
+    "versionPublish": "3.12.1"
   },
   "pages": {
-    "page1.html": {
+    "Genuine Pleasures Leather Bags": {
       "settings": {
-        "title": "register now",
-        "meta_descr": "Website Builder Description"
+        "main": true,
+        "title": "Genuine Pleasures Leather Bags",
+        "meta_descr": "Genuine Pleasures Leather Bags is a Proudly South African company which specialises on hand made leather bags from R650.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
       },
       "components": [
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
           "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "15px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000"
-            },
-            ".link": {
-              "font-size": "0.6rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#fac51c!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+            "P": {
+              "font-size": "24px",
+              "text-align": "left"
             }
           },
-          "_name": "menu",
-          "_anchor": "menu-b",
+          "_anchor": "msg-box5-a",
           "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": "2.9",
-            "fontName": {},
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": false,
-            "hideButtons": false
+            "imageSize": "53",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
-          "logo": {
+          "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2017-03-15-21-73x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "#top",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/presentation2-1400x1050.png",
+              "link": "",
+              "alt": "",
               "title": "",
               "linkInNewWindow": false
             },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-key mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(44, 130, 201);\"></span>PRE-EMINENCE Consulting</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"preeminence.co.za#header5-1\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\">Google fonts</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "title": "",
+          "text": "<p><b>Genuine Handmade&nbsp;Leather&nbsp;</b><b style=\"line-height: 1.5;\">bags</b><b style=\"line-height: 1.5;\">&nbsp;<span style=\"line-height: 1.5;\">from R650 - R950.</span></b></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE BELOW</a>"
         },
         {
-          "_name": "footer1",
-          "_anchor": "footer1-c",
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170418-141341-1-1-2000x1879-800x751.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170418-141341-1-1-2000x1879.jpg",
+                "caption": "Zebra Bag R950",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170418-135501-2000x2159-800x863.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170418-135501-2000x2159.jpg",
+                "caption": "Brown leather bag R950",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170418-142004-2000x2598-800x1039.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170418-142004-2000x2598.jpg",
+                "caption": "Soft Calf leather bag R950",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170418-142309-2000x2734-800x1093.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170418-142309-2000x2734.jpg",
+                "caption": "Tan and Gray R850",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": true,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
           },
-          "text": "Copyright (c) 2017 preeminence consulting"
+          "_anchor": "gallery3-e",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "right"
+            }
+          },
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170418-141341-1-1-2000x1879-800x751.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170418-141341-1-1-2000x1879.jpg",
+                "caption": "Cross Zebra Design &nbsp;R950",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170418-135259-2000x2783-800x1113.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170418-135259-2000x2783.jpg",
+                "caption": "Vintage &nbsp;Bag R950",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170418-140339-2000x2047-800x818.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170418-140339-2000x2047.jpg",
+                "caption": "Traditonal Round &nbsp;Shape &nbsp;R850&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170418-135635-2000x1988-800x795.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170418-135635-2000x1988.jpg",
+                "caption": "Genuine Leather Bag R950&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170418-135835-2000x2797-800x1118.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170418-135835-2000x2797.jpg",
+                "caption": "Fine Horse Leather R950",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170418-135125-2000x1584-800x633.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170418-135125-2000x1584.jpg",
+                "caption": "Sling purse R650",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170418-142404-2000x2634-800x1053.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170418-142404-2000x2634.jpg",
+                "caption": "Gray leather &amp; zebra cross R650",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170418-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170418-2000x1125.jpg",
+                "caption": "Gray leather &amp; zebra cross R650",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20170418-141049-2000x2693-800x1077.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170418-141049-2000x2693.jpg",
+                "caption": "Vintage Leather with a ZIP R850",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": true,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-0",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc"
+            },
+            ".card-block P": {
+              "font-size": "15px",
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials3",
+          "testimonial": [
+            {
+              "text": "<p><br></p><div><div><span style=\"font-size: 1.125rem; line-height: 2;\">Make sure your item is correct.</span></div><div><span style=\"font-size: 1.125rem; line-height: 2;\">Make a deposit and email proof of payment ref is your name</span></div><div>EMAIL:noncedo2005@yahoo.com</div><div><span style=\"font-size: 1.125rem; line-height: 2;\">We courier all over South Africa</span><br></div><div><br></div><div><div>Complete the details for the courier as well as your name &amp; surname so that we can match your order up to you.</div><div><br><div><br></div><div><br></div></div></div><p></p></div>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>Genuine Pleasures is a Proudly South African company we courier all over the country. To your door.</p><p><span style=\"line-height: 2;\">Shipping costs are as listed below</span></p><p>*courier costs are subject to change depending on your area &amp; the amount of bags you order.</p><p>If you are unsure or live in a remote area please contact us before hand for a quote on shipping.</p><p><span style=\"font-size: 1.125rem; line-height: 2;\"><span style=\"font-style: normal;\">Shipping is at a flat rate of R198.00</span> *current special at 50% off = R99* for bags which takes 2 to 5 business days (from date of payment clearing in our account).</span><br></p><p><span style=\"font-size: 1.125rem; line-height: 2;\">Smaller items are calculated separately and are about R85.</span><br></p><p><span style=\"font-size: 1.125rem; line-height: 2;\">For orders of more than 3 bags please note that courier costs will increase as per the weight of the order.“</span><br></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p><b>Banking Details</b></p><p><span style=\"font-style: normal;\">Acc Holder: Noncedo Goba</span></p><p><span style=\"font-style: normal;\">Acc number: 9083841090</span></p><p><span style=\"font-style: normal;\">Branch Code: 632005</span></p><p><span style=\"font-style: normal;\">Branch Name : Carlswald</span></p><p><span style=\"font-style: normal;\">ABSA Savings Account</span></p><p><span style=\"font-style: normal;\">PLEASE NOTE:</span></p><div>PROOF OF PAYMENT MUST BE RECEIVED WITHIN 12 HOURS.</div><div>We cannot courier to a PO Box Courier usually takes 2 – 3 days.</div><div><br></div><p></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials3-d",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "4",
+            "count": 3,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false
+          },
+          "title": "HOW TO ORDER",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
           "_tags": [
@@ -155,7 +370,7 @@
               "color": "#232323"
             }
           },
-          "_anchor": "form1-d",
+          "_anchor": "form1-c",
           "_params": {
             "labelsColor": "#232323",
             "paddingTop": 3,
@@ -171,8 +386,8 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "title": "PLACE AN ORDER",
+          "subtitle": "Complete the form below we will send you a quote and the availability of an iterm ordered",
           "form": {
             "action": "noncedo2005@yahoo.com",
             "alerts": {
@@ -196,40 +411,42 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Message include address for couriers"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>"
-        }
-      ]
-    },
-    "preeminenceconsulting": {
-      "settings": {
-        "main": true,
-        "title": "Preeminece consulting -Company Registrations for R850",
-        "meta_descr": "Complete company registration for R850. Includes: New company registration documents, Share holders Certificate, BEE Affidavit, SARS Income Tax Registration.",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+        },
         {
-          "_name": "footer1",
-          "_anchor": "footer1-2",
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-4",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": false,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
           },
-          "text": "Copyright (c) 2017 preeminence consulting"
+          "text": "SHARE THIS PAGE!"
         },
         {
           "_inherit": "menu",
@@ -281,11 +498,11 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#fac51c!important"
+              "color": "#c0a375!important"
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-i",
+          "_anchor": "ext_menu-7",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -297,12 +514,12 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/pre-eminence-logo-74x128.png",
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2017-04-18-18-45-34-1-140x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -315,291 +532,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PRE-EMINENCE Consulting</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preeminenceconsulting#features2-4\">HOW WE WORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preeminenceconsulting#form1-7\">ENQUIRY&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fac51c",
-              "text-align": "left"
-            },
-            ".btn": {
-              "font-size": "16px"
-            },
-            ".mbr-section-text I": {
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "header2-0",
-          "_params": {
-            "imageSize": "45",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/relax-1673916-2000x1500.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#000",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Register your company for only R850 with a full pacakge",
-          "text": "<b><i>Our price includes:</i></b><br><br><b>Company Registration and &nbsp;Documents<br>Shareholder Certificates<br>Company Register<br>BEE &nbsp;Affidavit<br>SARS Income Tax Registration<br>Done in 7 working days</b>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"preeminenceconsulting.html#form1-7\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register now</a> "
-        },
-        {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000"
-            },
-            ".mbr-section-lead": {
-              "color": "#9c9a9a"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-1",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "How we work<br><span style=\"font-weight: normal;\">step by step guide</span>",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"preeminenceconsulting#features2-4\" data-toolbar=\"-mbrBtnMove\">WORK-FLOW</a>"
-        },
-        {
-          "_inherit": "features1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features2",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            },
-            ".btn": {
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "features2-4",
-          "_params": {
-            "columnsColor": "#2e2e2e",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
-          },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "desktop",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title1": "ENQUIRY, PAYMENT &amp; PAPERWORK",
-          "subtitle1": "",
-          "caption1": "After you have enquired for registration we will send you the documentation to start the registration process. You can then send this paperwork to us along with proof of payment",
-          "button1": "<a data-app-btn=\"true\" href=\"preeminenceconsulting.html#form1-7\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Register Now</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "linkInNewWindow": false,
-              "name": "pencil",
-              "family": "et-line",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title2": "REGISTRATION",
-          "subtitle2": "",
-          "caption2": "Upon receipt of the paperwork, we will register the company with the CIPC. This normally takes between 5-7 working days.",
-          "button2": "<a data-app-btn=\"true\" href=\"preeminenceconsulting.html#form1-7\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Register Now</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "linkInNewWindow": false,
-              "name": "letter",
-              "family": "MobiriseIcons",
-              "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "title3": "WE SEND YOU THE DOCUMENTS",
-          "subtitle3": "",
-          "caption3": "Upon successful registration we will e-mail you the registration documents, share certificates and the share register",
-          "button3": "<a data-app-btn=\"true\" href=\"preeminenceconsulting#form1-7\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Register Now</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title4": "UNLIMITED OPPORTUNITIES",
-          "subtitle4": "",
-          "caption4": "Congratulations now you are an entrepreneur go and make those millions!!!",
-          "button4": "<a data-app-btn=\"true\" href=\"preeminenceconsulting.html#form1-7\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Register Now</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#000000"
-            },
-            ".btn": {
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "form1-7",
-          "_params": {
-            "labelsColor": "#000000",
-            "paddingTop": "1",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
-          },
-          "title": "COMPLETE THE FORM BELOW",
-          "subtitle": "I would like to Register a Company",
-          "form": {
-            "action": "nonigoba2017@gmail.com",
-            "alerts": {
-              "success": "                                 Thank you!\nPlease check your email, we have just sent you a mail, that should arrive in a couple of minutes \nThis email will contain all the documents you need to complete, it will also you step by step instructions to what will happen next.\nWe hope  you are as excited as we are about your new company.\nShould you have any question email on \nnonigoba2017@gmail.com\n"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>SUBMIT</a>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Genuine Pleasures Leather Bags</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-d\">HOW TO ORDER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-d\">SHIPPING</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html#gallery3-e\">BUY</a></li>"
         }
       ]
     }
