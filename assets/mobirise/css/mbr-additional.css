@@ -581,3 +581,13 @@ h6,
 #form1-7 .form-control-label {
   color: #000000;
 }
+#header2-e .mbr-section-title {
+  color: #fac51c;
+  text-align: left;
+}
+#header2-e .btn {
+  font-size: 16px;
+}
+#header2-e .mbr-section-text I {
+  font-size: 20px;
+}

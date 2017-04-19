@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 14,
+    "uniqCompNum": 15,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -343,7 +343,7 @@
           "_anchor": "header2-0",
           "_params": {
             "imageSize": "54",
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/relax-1673916-2000x1500.jpg",
             "bgColor": "#2e2e2e",
@@ -599,6 +599,66 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fac51c",
+              "text-align": "left"
+            },
+            ".btn": {
+              "font-size": "16px"
+            },
+            ".mbr-section-text I": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "header2-e",
+          "_params": {
+            "imageSize": "45",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/relax-1673916-2000x15001.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Register your company for only R850 with a full pacakge",
+          "text": "<b><i>Our price includes:</i></b><br><br><b>Company Registration and &nbsp;Documents<br>Shareholder Certificates<br>Company Register<br>BEE &nbsp;Affidavit<br>SARS Income Tax Registration<br>Done in 7 working days</b>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"preeminenceconsulting.html#form1-7\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Register now</a> "
         }
       ]
     }
