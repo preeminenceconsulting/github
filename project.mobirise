@@ -345,7 +345,7 @@
             "imageSize": "54",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/architecture-1048092-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/relax-1673916-2000x1500.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
